@@ -17,7 +17,7 @@
     "@flexio-oss/extended-flex-types": ">0.0.0"
   },
   "dependencies": {
-    "@flexio-corp/hotballoon-common-parent": "0.2.0-dev"
+    "@flexio-corp/js-common-parent": "0.1.0-dev"
   },
   "hotballoon-shed": {
     "build": {
