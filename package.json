@@ -4,9 +4,6 @@
   "main": "index.js",
   "module": "index.js",
   "version": "1.0.0-dev",
-  "bugs": {
-    "url": "https://github.com/Flexio-corp/hbservice-environment/issues"
-  },
   "repository": "https://github.com/flexiooss/js-geocoder",
   "devDependencies": {
     "code-altimeter-js": "https://github.com/flexiooss/code-altimeter-js.git"
@@ -17,7 +14,7 @@
     "@flexio-oss/extended-flex-types": ">0.0.0"
   },
   "dependencies": {
-    "@flexio-corp/js-common-parent": "0.1.0-dev"
+    "@flexio-corp/js-common-parent": "0.1.0"
   },
   "hotballoon-shed": {
     "build": {
