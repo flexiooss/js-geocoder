@@ -3,7 +3,7 @@
   "description": "",
   "main": "index.js",
   "module": "index.js",
-  "version": "1.0.0",
+  "version": "1.1.0-dev",
   "repository": "https://github.com/flexiooss/js-geocoder",
   "devDependencies": {
     "code-altimeter-js": "https://github.com/flexiooss/code-altimeter-js.git"
